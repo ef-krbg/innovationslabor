@@ -67,7 +67,7 @@ innovationslabor/
 
 ## Tech Stack
 
-HTML · CSS ([Bootstrap](https://getbootstrap.com/)-based, Start Bootstrap "Creative" theme) · JavaScript · [Font Awesome](https://fontawesome.com/) · Google Fonts
+HTML · CSS ([Bootstrap](https://getbootstrap.com/) · JavaScript · [Font Awesome](https://fontawesome.com/) · Google Fonts
 
 ## License
 
